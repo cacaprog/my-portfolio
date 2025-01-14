@@ -19,6 +19,11 @@
 
 
 ## 🚀 Projects
+**Airfare Data Analysis with SQL**
+
+- This project analyzes historical airfare data across different US cities using SQL queries to uncover insights about pricing patterns, routes, and carrier competition.
+- Technologies: Docker, PostgreSQL
+- [View Project](https://github.com/cacaprog/airfare-analysis-sql)
 
 **Marketing ROI Optimization Engine**
 
