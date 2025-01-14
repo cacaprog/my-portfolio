@@ -19,7 +19,7 @@
 
 
 ## 🚀 Projects
-**Airfare Data Analysis with SQL**
+✈️ **Airfare Data Analysis**
 
 - This project analyzes historical airfare data across different US cities using SQL queries to uncover insights about pricing patterns, routes, and carrier competition.
 - Technologies: Docker, PostgreSQL
