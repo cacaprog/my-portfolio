@@ -1,3 +1,4 @@
+[![Cairo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cacaprog)](https://github.com/cacaprog/github-readme-stats)
 
 # Driven by curiosity, I leverage data science, AI, and analytics to transform 12+ years of marketing expertise into actionable business insights for companies.
 
