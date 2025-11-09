@@ -1,6 +1,6 @@
 # Driven by curiosity, I leverage data science, AI, and analytics to transform 12+ years of marketing expertise into actionable business insights for companies.
 
-![Cairo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cacaprog&show_icons=true)
+[![Cairo's GitHub stats](https://github-readme-stats.vercel.app/api?username=cacaprog)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎯 About Me
 
